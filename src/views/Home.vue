@@ -5,6 +5,10 @@
   </div>
 </template>
 
+<style lang="scss" scoped>
+
+</style>
+
 <script>
 // @ is an alias to /src
 import HelloWorld from '@/components/HelloWorld.vue'
