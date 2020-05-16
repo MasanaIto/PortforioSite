@@ -5,9 +5,9 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    sss
   </div>
 </template>
-
 <style lang="scss">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
