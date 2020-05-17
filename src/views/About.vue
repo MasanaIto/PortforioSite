@@ -1,33 +1,25 @@
 <template>
   <section id="about">
     <img class="top__icon" alt="Masana Icon" src="../assets/myface.jpg">
-    <h1>Masana Ito</h1>
+    <h1>伊藤 政名(実写)</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Good Morning!
     </p>
     <h3>経歴</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router" target="_blank" rel="noopener">router</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li>2018/4 ~ 北海学園大学 経営学部 経営学科 (夜間過程)</li>
     </ul>
     <h3>インターン歴</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li>2019/2 ~ 3 ダイアモンドヘッド株式会社</li>
+      <li>2019/10 ~ 現在 株式会社インフィニットループ</li>
     </ul>
-    <h3>趣味</h3>
+    <h3>バイト歴</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li>刺繍屋</li>
+      <li>ファストフード店</li>
+      <li>ゲームのバグチェッカー</li>
+      <li>ロボット・プログラミング教室講師</li>
     </ul>
   </section>
 </template>
@@ -51,7 +43,7 @@
     padding: 0;
   }
   li {
-    display: inline-block;
+    display: block;
     margin: 0 10px;
   }
   a {
