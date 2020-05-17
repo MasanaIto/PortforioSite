@@ -27,7 +27,7 @@
 <style lang="scss" scoped>
 #about {
   .top__icon {
-      margin-top: 10em;
+      margin-top: 8em;
       margin-left: auto;
       margin-right: auto;
       width: 10em;

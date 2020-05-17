@@ -25,7 +25,7 @@
 <style lang="scss" scoped>
 
 #skill {
-  margin-top: 100px;
+  margin-top: 5em;
 }
 
 .card-list {
