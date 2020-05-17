@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <Navbar />
+    <Footer />
   </div>
 </template>
 <style lang="scss">
@@ -13,15 +14,16 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #051637;
 }
 
 </style>
 
 <script>
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 export default {
-  components: { Navbar }
+  components: { Navbar, Footer }
 }
 </script>
