@@ -10,17 +10,21 @@
 .navbar {
   display: flex;
   justify-content: space-between;
-  width: 60%;
+  width: 50%;
   margin: 0 auto;
   padding: 40px;
   a {
+    color: #EB4E89;
     font-size: 1.5em;
     font-weight: bold;
     color: #2c3e50;
     text-decoration: none;
+    transition: all  0.5s ease;
     &.router-link-exact-active {
-      color: #455b8f;
-      border-bottom: solid 1px #455b8f;
+      color: #EB4E89;
+    }
+    &:hover {
+      color: #EB4E89;
     }
   }
 }

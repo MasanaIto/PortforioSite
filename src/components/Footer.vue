@@ -1,6 +1,6 @@
 <template>
     <section id="footer">
-        <p>email : z3heng0326@gmail.com</p>
+        <p><i class="far fa-paper-plane"></i> z3heng0326@gmail.com</p>
     </section>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
   <section id="about">
     <img class="top__icon" alt="Masana Icon" src="../assets/myface.jpg">
-    <h1>伊藤 政名(実写)</h1>
+    <h1>いとう まさな</h1>
     <p>
       Good Morning!
     </p>
