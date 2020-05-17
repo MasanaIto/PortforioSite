@@ -2,11 +2,6 @@
   <section id="home">
     <img class="top__icon" alt="Masana Icon" src="../assets/myicon.jpg">
     <h1>Masana Ito</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-    </p>
-
     <div class="social">
       <a href="https://www.facebook.com/masana.ito.758" class="link facebook" target="_brank">
         <span class="fab fa-facebook"></span>
@@ -23,12 +18,16 @@
 
 <style lang="scss" scoped>
 .top__icon {
-    margin-top: 10em;
+    margin-top: 8em;
     margin-left: auto;
     margin-right: auto;
     width: 10em;
     height: 10em;
     border-radius: 50%;
+}
+
+h1 {
+  font-size: 3em;
 }
 
 h3 {
