@@ -5,21 +5,27 @@
     <p>
       Good Morning!
     </p>
-    <h3>経歴</h3>
+    <h3><i class="fas fa-school"></i> 経歴 <i class="fas fa-school"></i></h3>
     <ul>
-      <li>2018/4 ~ 北海学園大学 経営学部 経営学科 (夜間過程)</li>
+      <li>2018/4 ~ 現在3年生</li>
+      <li>北海学園大学 経営学部 経営学科 (夜間過程)</li>
     </ul>
-    <h3>インターン歴</h3>
+    <h3><i class="far fa-building"></i> インターン歴 <i class="far fa-building"></i></h3>
     <ul>
-      <li>2019/2 ~ 3 ダイアモンドヘッド株式会社</li>
-      <li>2019/10 ~ 現在 株式会社インフィニットループ</li>
+      <li>2019/2 ~ 3</li>
+      <li>ダイアモンドヘッド株式会社</li>
+      <li>ECサイト開発 - Laravel/HTML5/CSS3/Scss</li>
+      <p class="far fa-hand-point-down"></p>
+      <li>2019/10 ~ 現在</li>
+      <li>株式会社インフィニットループ</li>
+      <li>ソーシャルゲーム開発 - PHP/MySQL/jQuery</li>
     </ul>
     <h3>バイト歴</h3>
     <ul>
-      <li>刺繍屋</li>
-      <li>ファストフード店</li>
-      <li>ゲームのバグチェッカー</li>
-      <li>ロボット・プログラミング教室講師</li>
+      <li><i class="fas fa-cut"></i> 刺繍屋</li>
+      <li><i class="fas fa-hamburger"></i> ファストフード店</li>
+      <li><i class="fas fa-gamepad"></i> ゲームのバグチェッカー</li>
+      <li><i class="fas fa-robot"></i> ロボット・プログラミング教室講師</li>
     </ul>
   </section>
 </template>

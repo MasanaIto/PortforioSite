@@ -1,6 +1,6 @@
 <template>
   <section id="home">
-    <img class="top__icon" alt="Masana Icon" src="../assets/myicon.jpg">
+    <img class="top__icon" alt="Masana Icon" src="../assets/myicon.png">
     <h1>Masana Ito</h1>
     <div class="social">
       <a href="https://www.facebook.com/masana.ito.758" class="link facebook" target="_brank">
