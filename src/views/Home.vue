@@ -8,16 +8,14 @@
     </p>
 
     <div class="social">
-      <a href="https://www.facebook.com/masana.ito.758" class="link facebook" target="_parent">
+      <a href="https://www.facebook.com/masana.ito.758" class="link facebook" target="_brank">
         <span class="fab fa-facebook"></span>
       </a>
-      <a href="https://twitter.com/zhen2333" class="link twitter" target="_parent">
+      <a href="https://twitter.com/zhen2333" class="link twitter" target="_brank">
         <span class="fa fa-twitter"></span>
       </a>
-      <a href="https://github.com/MasanaIto" class="link github" target="_parent">
-        <span class="fab fa-github">
-          <!--<img src="Octicons-mark-github.svg" width="100px" height="100px">-->
-        </span>
+      <a href="https://github.com/MasanaIto" class="link github" target="_brank">
+        <span class="fab fa-github"></span>
       </a>
     </div>
   </section>
@@ -68,7 +66,6 @@ a {
   transition: .5s;
   color: #D7D0BE;
   margin: 30px;
-  // margin-right: 30px;
   font-size: 70px;
 }
 
