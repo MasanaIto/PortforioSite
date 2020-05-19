@@ -14,6 +14,7 @@
   margin: 0 auto;
   padding: 40px;
   a {
+    font-family: 'Archivo Black', sans-serif;
     color: #EB4E89;
     font-size: 1.5em;
     font-weight: bold;

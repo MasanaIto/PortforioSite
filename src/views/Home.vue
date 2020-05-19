@@ -1,7 +1,7 @@
 <template>
   <section id="home">
     <img class="top__icon" alt="Masana Icon" src="../assets/myicon.png">
-    <h1>Masana Ito</h1>
+    <h1 class="myname">Masana Ito</h1>
     <div class="social">
       <a href="https://www.facebook.com/masana.ito.758" class="link facebook" target="_brank">
         <span class="fab fa-facebook"></span>
@@ -26,8 +26,9 @@
     border-radius: 50%;
 }
 
-h1 {
-  font-size: 3em;
+.myname {
+  font-size: 4em;
+  font-family: 'Archivo Black', sans-serif;
 }
 
 h3 {

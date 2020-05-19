@@ -40,7 +40,6 @@
       height: 10em;
       border-radius: 50%;
   }
-
   h3 {
     margin: 40px 0 0;
   }
