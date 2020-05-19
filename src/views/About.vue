@@ -2,9 +2,6 @@
   <section id="about">
     <img class="top__icon" alt="Masana Icon" src="../assets/myface.jpg">
     <h1>いとう まさな</h1>
-    <p>
-      Good Morning!
-    </p>
     <h3><i class="fas fa-school"></i> 経歴 <i class="fas fa-school"></i></h3>
     <ul>
       <li>2018/4 ~ 現在3年生</li>
