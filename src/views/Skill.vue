@@ -19,6 +19,11 @@
             <h3 class="card__title">HTML5/CSS3</h3>
             <p class="card__text"><i class="fab fa-sass"></i> Scss / <i class="fab fa-bootstrap"></i> Bootstrap</p>
           </section>
+          <section class="card">
+            <img src="../assets/Go-Logo_Black.svg" width="200" height="150">
+            <h3 class="card__title">Golang</h3>
+            <p class="card__text">最近勉強中！</p>
+          </section>
         </div>
     </section>
     </div>
