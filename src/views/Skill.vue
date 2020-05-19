@@ -6,18 +6,22 @@
             <i class="fab fa-php card__icon"></i>
             <h3 class="card__title">PHP</h3>
             <p class="card__text">
-              <i class="fab fa-laravel"></i> Laravel</p>
+              <i class="fab fa-laravel"> Laravel</i>
+            </p>
           </section>
           <section class="card">
             <i class="fab fa-js-square card__icon"></i>
             <h3 class="card__title">JavaScript</h3>
             <p class="card__text">
-              <i class="fab fa-vuejs"></i> Vue.js / jQuery</p>
+              <i class="fab fa-vuejs"> Vue.js</i> / jQuery
+            </p>
           </section>
           <section class="card">
             <i class="far fa-file-code card__icon"></i>
             <h3 class="card__title">HTML5/CSS3</h3>
-            <p class="card__text"><i class="fab fa-sass"></i> Scss / <i class="fab fa-bootstrap"></i> Bootstrap</p>
+            <p class="card__text">
+              <i class="fab fa-sass"> Scss</i> / <i class="fab fa-bootstrap"> Bootstrap</i>
+            </p>
           </section>
           <section class="card">
             <img src="../assets/Go-Logo_Black.svg" width="200" height="150">
